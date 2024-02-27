@@ -1,0 +1,26 @@
+div{
+    background-color: whitesmoke;
+    padding: 1%;
+}
+h1{
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+    background-color: none;
+}
+.input-container{
+    display: flex;
+    margin-bottom: 20px;
+}
+input[type="text"] {
+    flex-grow: 1;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: none;
+}
+button{
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
